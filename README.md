@@ -22,5 +22,5 @@ mkdir notebooks src app docs
 - Editar un archivo
 ```bash
 touch mitexto.txt
-mano mitexto.txt
+nano mitexto.txt
 ```
